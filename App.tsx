@@ -71,7 +71,7 @@ export default function App() {
             <>
               <Text style={styles.question}>
                 {questions[currentQuestion]}
-              </Text>
+             </Text>
               <View style={styles.answerContainer}>
                 {answers.map((answer, index) => (
                   <View key={index} style={styles.answerButtonContainer}>
