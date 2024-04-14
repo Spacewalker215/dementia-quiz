@@ -174,7 +174,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     paddingVertical: 10,
     paddingHorizontal: 20,
-    backgroundColor: '#007AFF',
+    backgroundColor: '#f7dc79',
   },
   answerText: {
     fontSize: 16,
@@ -192,7 +192,7 @@ const styles = StyleSheet.create({
   },
   progressBar: {
     height: 10,
-    backgroundColor: '#007AFF',
+    backgroundColor: '#f7dc79',
     width: '100%',
     borderRadius: 5,
   },
